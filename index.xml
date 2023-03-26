@@ -1,16 +1,91 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>X-IT Technology</title>
-    <link>https://x-it-tech.github.io/</link>
-      <atom:link href="https://x-it-tech.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>X-IT Technology</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>https://x-it-tech.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>X-IT Technology</title>
-      <link>https://x-it-tech.github.io/</link>
-    </image>
+    <title>Home on X-IT Tech</title>
+    <link>http://x-it.tech/</link>
+    <description>Recent content in Home on X-IT Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://x-it.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Us</title>
+      <link>http://x-it.tech/contact-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://x-it.tech/contact-us/</guid>
+      <description>Phone Number: (949) 688-7488
+Email: helpdesk@x-it.tech</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://x-it.tech/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://x-it.tech/about-us/</guid>
+      <description>Welcome to X-IT Tech, an established managed service provider with over 10 years of experience in the industry. Although X-IT Tech was officially established 5 years ago, our team has been providing technology solutions for over a decade. At X-IT Tech, we are dedicated to providing our clients with comprehensive technology solutions that meet their unique needs and exceed their expectations.
+Our team has worked with a diverse range of clients, including medical device start-ups and construction companies.</description>
+    </item>
+    
+    <item>
+      <title>The Sixth Thing</title>
+      <link>http://x-it.tech/blog/sixth/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://x-it.tech/blog/sixth/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>The Fifth Thing</title>
+      <link>http://x-it.tech/blog/fifth/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://x-it.tech/blog/fifth/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>The Fourth Thing</title>
+      <link>http://x-it.tech/blog/fourth/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://x-it.tech/blog/fourth/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>The Third Thing</title>
+      <link>http://x-it.tech/blog/third/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://x-it.tech/blog/third/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>The Second Thing</title>
+      <link>http://x-it.tech/blog/second/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://x-it.tech/blog/second/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>The First Thing</title>
+      <link>http://x-it.tech/blog/first/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://x-it.tech/blog/first/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
     
   </channel>
 </rss>

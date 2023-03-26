@@ -1,41 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://x-it-tech.github.io/authors/</loc>
+    <loc>http://x-it.tech/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://x-it.tech/blog/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://x-it.tech/contact-us/</loc>
+  </url><url>
+    <loc>http://x-it.tech/about-us/</loc>
+  </url><url>
+    <loc>http://x-it.tech/tags/duis-neque/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://x-it.tech/tags/example/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://x-it.tech/tags/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://x-it.tech/blog/sixth/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://x-it.tech/tags/lorem-ipsum/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://x-it.tech/blog/fifth/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://x-it.tech/blog/fourth/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://x-it.tech/blog/third/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://x-it.tech/blog/second/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://x-it.tech/blog/first/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
-  
-  <url>
-    <loc>https://x-it-tech.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://x-it-tech.github.io/author/nelson-bighetti/</loc>
-  </url>
-  
-  <url>
-    <loc>https://x-it-tech.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://x-it-tech.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://x-it-tech.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://x-it-tech.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://x-it-tech.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://x-it-tech.github.io/</loc>
-  </url>
-  
 </urlset>
